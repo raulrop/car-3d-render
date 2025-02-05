@@ -5,3 +5,7 @@ The libraries used are Assimp, LWJGL 3.3.6, so it's a very quick execution in or
 ## How to render?
 Feel free to change the loadModel() method:
 ``` loadModel("your/model/path.obj"); ```
+![image](https://github.com/user-attachments/assets/58108aba-adec-4104-96ca-bcc679a0d16e)
+## How should it really look?
+(Taken from 3dviewer.net)
+![image](https://github.com/user-attachments/assets/c4719fa3-5e55-4db2-a721-62eff85ec507)
